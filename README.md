@@ -1,6 +1,6 @@
 ### 💌 — BASICS
 #### ˗ˏˋ hello, i'm mia! ´ˎ˗
-* he/they/vamp
+* he/they
 * computer science student
 	* **first year**
 * programmer, artist and thespian
