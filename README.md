@@ -1,5 +1,5 @@
 ### 💌 — BASICS
-####˗ˏˋ hello, i'm mia! ´ˎ˗
+#### ˗ˏˋ hello, i'm mia! ´ˎ˗
 * he/they/vamp
 * computer science student
 	* **first year**
