@@ -1,5 +1,5 @@
 ### 💌 — BASICS
-#### hello, i'm mia!
+####˗ˏˋ hello, i'm mia! ´ˎ˗
 * he/they/vamp
 * computer science student
 	* **first year**
@@ -14,4 +14,4 @@
 	* ... and i'm learning PYTHON!
 
 ### 💌 — OKAY? OKAY.
-that's pretty much it
+that's pretty much it!
