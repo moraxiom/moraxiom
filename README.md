@@ -1,8 +1,9 @@
 ### 💌 — BASICS
-#### ˗ˏˋ hello, i'm mia! ´ˎ˗
+#### ˗ˏˋ hello, i'm vilem! ´ˎ˗
 * he/they
 * computer science student
-	* **first year** - INCOMPLETE
+	* **first year** - COMPLETED!
+ 		* i'm only missing linear algebra 
 	* **second year** - INCOMPLETE
 	* **third year** - INCOMPLETE
 	* **MAJOR** - INCOMPLETE
