@@ -10,6 +10,10 @@
 * programmer, artist and thespian
 * very pretty (i think)
 
+### 💌 — DEVELOPER INFO.
+* **software**: OOP/structured
+* **web dev.**: front-end
+
 ### 💌 — WHAT I'M DOING HERE
 * i'm here to show the stuff i do, whether good or bad
 * **i work in :**
@@ -18,6 +22,7 @@
 	* ... and i'm learning PYTHON!
 * **future webring member with my friends!**
 
-### 💌 — OKAY? OKAY.
-that's pretty much it!
-i'm so sorry for all my professors who will happen to see my stuff
+### 💌 — MY PROJECTS
+* creating a website for my college club - **PENDING**
+* test-based adventure game (t get used to game stuff) - **PENDING**
+
