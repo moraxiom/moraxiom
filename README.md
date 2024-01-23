@@ -1,5 +1,6 @@
 ### 💌 — BASICS
 #### ˗ˏˋ hello, i'm vilem! ´ˎ˗
+(it's **matthieu bélanger poulin** for my college professors, hi guys!)
 * he/they
 * computer science student
 	* **first year** - COMPLETED!
