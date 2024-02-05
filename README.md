@@ -4,9 +4,11 @@
 * he/they
 * computer science student
 	* **first year** - COMPLETED!
- 		* i'm only missing linear algebra 
+ 		* linear algebra missing
 	* **second year** - INCOMPLETE
+		* data structures missing
 	* **third year** - INCOMPLETE
+	* **fourth year** - INCOMPLETE (kind of don't have a choice to stay for a 4th year...)
 	* **MAJOR** - INCOMPLETE
 * programmer, artist and thespian
 * very pretty (i think)
