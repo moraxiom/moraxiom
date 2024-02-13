@@ -27,5 +27,5 @@
 
 ### 💌 — MY PROJECTS
 * creating a website for my college club - **PENDING**
-* test-based adventure game (t get used to game stuff) - **PENDING**
+* test-based adventure game (to get used to game stuff) - **PENDING**
 
