@@ -26,6 +26,6 @@
 * **future webring member with my friends!**
 
 ### 💌 — MY PROJECTS
-* creating a website for my college club - **PENDING**
+* creating a website for my body of work - **PENDING**
 * test-based adventure game (to get used to game stuff) - **PENDING**
 
