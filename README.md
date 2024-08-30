@@ -5,7 +5,7 @@
 * computer science student
 	* **first year** - COMPLETED!
  		* linear algebra missing
-	* **second year** - INCOMPLETE
+	* **second year** - COMPLETED!
 		* data structures missing
 	* **third year** - INCOMPLETE
 	* **fourth year** - INCOMPLETE (kind of don't have a choice to stay for a 4th year...)
@@ -27,5 +27,5 @@
 
 ### 💌 — MY PROJECTS
 * creating a website for my body of work - **PENDING**
-* test-based adventure game (to get used to game stuff) - **PENDING**
+* text-based adventure game (to get used to game stuff) - **PENDING**
 
