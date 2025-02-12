@@ -1,12 +1,11 @@
 ### 💌 — BASICS
 #### ˗ˏˋ hello, i'm vil! ´ˎ˗
 (it's **matthieu bélanger poulin** for my college professors, hi guys!)
-* he/they
+* he/him
 * computer science student
 	* **first year** - COMPLETED!
  		* linear algebra missing
 	* **second year** - COMPLETED!
-		* data structures missing
 	* **third year** - INCOMPLETE
 	* **fourth year** - INCOMPLETE (kind of don't have a choice to stay for a 4th year...)
 	* **MAJOR** - INCOMPLETE
