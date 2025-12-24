@@ -1,27 +1,20 @@
 ### 💌 — BASICS
 #### ˗ˏˋ hello, i'm vil! ´ˎ˗
-(it's **matthieu bélanger poulin** for my college professors, hi guys!)
 * he/him
 * computer science student
-	* **first year** - COMPLETED!
-	* **second year** - COMPLETED!
-	* **third year** - COMPLETE!
-	* **fourth year** - INCOMPLETE
-	* **MAJOR** - INCOMPLETE
 * programmer, artist and thespian
-* very pretty (i think)
-
-### 💌 — DEVELOPER INFO.
-* **software**: OOP/structured
-* **web dev.**: front-end
+* very handsome
 
 ### 💌 — WHAT I'M DOING HERE
 * i'm here to show the stuff i do, whether good or bad
 * **i work in :**
 	* C++ (and occasionally with C functions)
+ 	* java
+  	* C#
+  	* javascript
+  	* dart
+  	* python
 	* HTML-5 and CSS-3
-	* ... and i'm learning PYTHON!
-* **future webring member with my friends!**
 
 ### 💌 — MY PROJECTS
 * creating a website for my body of work - **PENDING**
